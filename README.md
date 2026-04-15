@@ -8,10 +8,6 @@ Este projeto é um protótipo funcional para automação de inspeção em linhas
 - **Logística de Armazenamento:** Agrupamento automático de peças em caixas com capacidade de 10 unidades.
 - **Relatório Gerencial:** Visão consolidada de aprovadas, reprovadas e motivos de falha.
 
-## 📺 Pitch da Solução (Vídeo)
-Confira a demonstração do sistema em funcionamento:
-[CLIQUE AQUI PARA VER O VÍDEO](LINK_DO_SEU_VIDEO_AQUI)
-
 ## 🛠️ Como Rodar o Projeto
 1. Tenha o Python 3.11+ instalado.
 2. No terminal, execute: `python main.py`
